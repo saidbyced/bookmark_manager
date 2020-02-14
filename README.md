@@ -11,6 +11,7 @@ So that I can quickly go back to a website
 I would like to see a list of bookmarks
 ```
 
+## Setup instructions ##
 
 1. Connect to psql
 2. Create the database using the psql command 'CREATE DATABASE bookmark_manager;'
