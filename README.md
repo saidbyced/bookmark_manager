@@ -1,4 +1,4 @@
-# BOOKMARK MANAGER #
+# Bookmark Manager #
 
 NOTE: This is a project from Makers Academy (Week 4 Group Project).
 This application is built to create a database of bookmarks users can manage and view.
